@@ -1,0 +1,15 @@
+.caixa{
+    width: 600x;
+    height: 100%;
+    border: 2px solid red;
+    
+}
+h4{
+    display: inline-block;
+    border: 2px solid blue;
+    background-color: greenyellow;
+}
+.whats{
+    position: sticky;
+    top: 0px;
+}
